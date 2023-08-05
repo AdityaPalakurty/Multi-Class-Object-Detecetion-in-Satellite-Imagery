@@ -18,10 +18,14 @@ detection algorithms that have been used for multi-class object detection
 in satellite imagery include Mask R-CNN, YOLOv3, and SSD. These 
 algorithms have achieved high accuracy on benchmark datasets, and they 
 are being used for a variety of applications. 
+
+
 As deep learning techniques continue to improve, multi-class object 
 detection in satellite imagery is becoming increasingly accurate and 
 reliable. This is leading to new applications for satellite imagery, such as 
 disaster response, environmental monitoring, and urban planning. 
+
+
 Human visual system is very fast that can easily detect and identify 
 the objects using this visual system it can easily identify multiple objects 
 and detect the obstacle. This time there are very large amount of data, 
