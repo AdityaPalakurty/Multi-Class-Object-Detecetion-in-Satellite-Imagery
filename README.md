@@ -3,7 +3,7 @@ Internship at National Remote Sensing Centre, ISRO
 
 ![image](https://github.com/AdityaPalakurty/Multi-Class-Object-Detection-in-Satellite-Imagery/assets/98629876/cfc5ddd9-1420-4092-94af-a1b6a80981d1)
 
-Multi-class object detection in satellite imagery is a challenging task 
+Multi-Class Object Detection in Satellite Imagery is a challenging task 
 due to the large size and complexity of the images, as well as the diversity 
 of objects that can be present. However, deep learning techniques have 
 shown great promise for multi-class object detection in satellite imagery.
