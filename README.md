@@ -26,7 +26,6 @@ detection in satellite imagery is becoming increasingly accurate and
 reliable. This is leading to new applications for satellite imagery, such as 
 disaster response, environmental monitoring, and urban planning. 
 
-
 Human visual system is very fast that can easily detect and identify 
 the objects using this visual system it can easily identify multiple objects 
 and detect the obstacle. This time there are very large amount of data, 
