@@ -37,3 +37,5 @@ to solve the problem of object detection and recognition.
 
 **Note:**
 This project was accomplished by drawing insights from open literature and online resources available on the internet. I also extend my gratitude to the various websites/maker/inventors/developers/proposers like Ultralytics,kaggle that provided valuable information, contributing to the completion of this project.
+
+
